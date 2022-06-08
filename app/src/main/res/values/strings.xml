@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">MediumExample</string>
+    <string name="default_notification_channel_id">marketing</string>
 </resources>

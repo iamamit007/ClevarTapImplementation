@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "546210821155",
+    "project_id": "clevertappoc-2a583",
+    "storage_bucket": "clevertappoc-2a583.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:546210821155:android:9bdf1634e03effc22e2d96",
+        "android_client_info": {
+          "package_name": "com.poc.ct"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "546210821155-s9j28p4ce3c4j1f8dutpajijno0gq45e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCm0PY3jR09YEGn9xs1LXx5wN294GlcAnM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "546210821155-s9j28p4ce3c4j1f8dutpajijno0gq45e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
